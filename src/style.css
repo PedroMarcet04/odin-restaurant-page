@@ -1,3 +1,45 @@
+:root {
+    --tetolor: mediumvioletred;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
 header {
-    background-color: blue;
+    padding: 8px;
+
+    background-color: lightgray;
+    color: var(--tetolor);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header>nav {
+    display: flex;
+    gap: 8px;
+}
+header>nav>button {
+    position: relative;
+    padding: 2px;
+    width: 6ch;
+
+    background-color: transparent;
+    color: var(--tetolor);
+
+    border: 0;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px 1px black;
+}
+header>nav>button:hover {
+    top: 2px;
+    left: 2px;
+    box-shadow: none;
+}
+header>nav>button:active {
+    top: 4px;
+    left: 4px;
+    box-shadow: inset 2px 2px 2px 1px black;
 }
