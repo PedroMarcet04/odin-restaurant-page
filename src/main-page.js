@@ -1,5 +1,4 @@
 import restaurantImage from "../images/empty-restaurant.jpg";
-export {loadPage};
 
 const contentContainer = document.querySelector("#content");
 
@@ -49,3 +48,5 @@ const loadPage = function() {
     descriptionBodyP2.textContent = "Free WiFi! Just make sure to check if there's someone hiding inside it, we have a blue haired problem...";
     descriptionBody.appendChild(descriptionBodyP2);
 }
+export default loadPage;
+
