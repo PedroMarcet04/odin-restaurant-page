@@ -14,7 +14,7 @@ const loadPage = function() {
 
     const author = document.createElement("p");
     author.classList.add("author");
-    author.textContent = "&mdash; A missing small-time food critic";
+    author.innerHTML = "&mdash; A missing small-time food critic";
     quoteDiv.appendChild(author);
 
 
@@ -25,6 +25,7 @@ const loadPage = function() {
 
     const descriptionTitle = document.createElement("h2");
     descriptionTitle.classList.add("title");
+    descriptionTitle.textContent = "A place sparkling with life";
     descriptionDiv.appendChild(descriptionTitle);
 
     const descriptionImage = document.createElement("img");
