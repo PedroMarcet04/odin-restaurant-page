@@ -1,7 +1,7 @@
 import styleSheet from "./style.css";
 import loadMainPage from "./main-page.js";
 
-loadMainPage();
+// loadMainPage();
 
 const navButtons = document.querySelectorAll("header>nav>button");
 for (const button of navButtons) {
