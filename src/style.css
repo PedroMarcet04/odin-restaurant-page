@@ -84,3 +84,35 @@ header>nav>button:active {
 .description>.body {
     font-size: 24px;
 }
+
+.section-description {
+    margin: 32px 0;
+}
+
+.menu {
+    width: 800px;
+    padding: 32px;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu-section {
+    width: clamp(400px, 80vw, 600px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu-section>h3 {
+    margin: 32px 0px 16px;
+    color: var(--tetolor);
+}
+.menu-item {
+    width: 80%;
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu .disclaimer {
+    font-size: 8px;
+}
