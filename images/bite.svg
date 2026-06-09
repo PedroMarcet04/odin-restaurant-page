@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.73940797"
+     inkscape:cx="396.26297"
+     inkscape:cy="496.34304"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#000000;stroke-width:0.264583"
+       id="path6"
+       cx="205.39519"
+       cy="128.10362"
+       rx="25.763855"
+       ry="26.837349" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.264583"
+       id="path7"
+       cx="176.94759"
+       cy="129.71385"
+       rx="20.933132"
+       ry="22.364458" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.264583"
+       id="path8"
+       cx="157.44577"
+       cy="146.88976"
+       rx="25.763855"
+       ry="22.006626" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.264583"
+       id="path9"
+       cx="154.58313"
+       cy="174.62169"
+       rx="24.332531"
+       ry="21.112049" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.264583"
+       id="path10"
+       cx="164.24458"
+       cy="198.59636"
+       rx="27.553011"
+       ry="27.910843" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.264583"
+       id="path11"
+       cx="188.21928"
+       cy="226.1494"
+       rx="24.690361"
+       ry="15.744578" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.264583"
+       id="path12"
+       cx="205.93193"
+       cy="191.97652"
+       rx="37.035542"
+       ry="52.064457" />
+  </g>
+</svg>

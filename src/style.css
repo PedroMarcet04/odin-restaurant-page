@@ -116,3 +116,7 @@ header>nav>button:active {
 .menu .disclaimer {
     font-size: 8px;
 }
+
+.bite {
+    align-self: end;
+}

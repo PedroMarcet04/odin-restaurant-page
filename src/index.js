@@ -1,8 +1,9 @@
 import styleSheet from "./style.css";
 import loadMainPage from "./main-page.js";
 import loadMenuPage from "./menu-page.js";
+import loadAboutPage from "./about-page.js";
 
-// loadMainPage();
+loadMainPage();
 
 const navButtons = document.querySelectorAll("header>nav>button");
 for (const button of navButtons) {
@@ -16,6 +17,7 @@ for (const button of navButtons) {
                 loadMenuPage();
                 break;
             case "About":
+                loadAboutPage();
                 break;
         }
     });
